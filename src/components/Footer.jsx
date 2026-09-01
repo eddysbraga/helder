@@ -1,4 +1,5 @@
-import { Globe, Mail, Phone, Share2 } from 'lucide-react'
+import { Mail } from 'lucide-react'
+import { FaInstagram, FaLinkedinIn, FaWhatsapp } from 'react-icons/fa'
 import Logo from './Logo'
 
 export default function Footer() {
@@ -17,16 +18,16 @@ export default function Footer() {
             className="flex h-10 w-10 items-center justify-center rounded-full border border-[#1e1e2a] text-[#8b8b9a] transition hover:border-brand/50 hover:text-brand"
             aria-label="Instagram"
           >
-            <Share2 size={18} />
+            <FaInstagram size={18} />
           </a>
           <a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/h%C3%A9lder-rodrigues/"
             target="_blank"
             rel="noopener noreferrer"
             className="flex h-10 w-10 items-center justify-center rounded-full border border-[#1e1e2a] text-[#8b8b9a] transition hover:border-brand/50 hover:text-brand"
             aria-label="LinkedIn"
           >
-            <Globe size={18} />
+            <FaLinkedinIn size={18} />
           </a>
           <a
             href="mailto:contacto@helder.pt"
@@ -40,7 +41,7 @@ export default function Footer() {
             className="flex h-10 w-10 items-center justify-center rounded-full border border-[#1e1e2a] text-[#8b8b9a] transition hover:border-brand/50 hover:text-brand"
             aria-label="Telefone"
           >
-            <Phone size={18} />
+            <FaWhatsapp size={18} />
           </a>
         </div>
       </div>

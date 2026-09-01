@@ -1,13 +1,13 @@
 const clients = [
   {
-    name: 'Atletas & Jovens',
-    label: 'Performance máxima, preparação para teste físico e prevenção de lesões.',
+    name: 'Atletas & Público Geral',
+    label: 'Performance específica aos seus objetivos, preparação para testes de aptidão física (TAF) e prevenção de lesões',
     image:
       'https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=600&q=80',
   },
   {
-    name: 'Perda de Peso & Bariátricos',
-    label: 'Protocolos científicos para transformação metabólica e composição corporal.',
+    name: 'Terceira idade & populações especiais',
+    label: 'Longevidade, melhora funcional e recuperação de lesão com segurança, respeitando os seus limites.',
     image:
       'https://images.unsplash.com/photo-1549060279-7e168fcee0c2?w=600&q=80',
   },

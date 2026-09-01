@@ -20,7 +20,7 @@ export default function HoursAndCTA() {
               <Clock className="text-brand" size={32} strokeWidth={1.5} />
               <div className="text-center">
                 <p className="text-sm text-[#8b8b9a]">Sábado</p>
-                <p className="font-display text-4xl font-black text-white">07H — 23H</p>
+                <p className="font-display text-4xl font-black text-white">07H — 13H</p>
               </div>
             </div>
           </div>
@@ -33,8 +33,7 @@ export default function HoursAndCTA() {
             Você merece o <span className="text-brand">melhor</span>
           </h2>
           <p className="relative mx-auto mb-8 max-w-xl text-base text-[#8b8b9a] lg:text-lg">
-            Dê o primeiro passo rumo à sua melhor versão. Agende uma avaliação
-            gratuita e descubra o que a ciência do movimento pode fazer por si.
+            Dê o primeiro passo rumo à sua melhor versão. Agende sua avaliação gratuita e descubra como a ciência do movimento pode transformar sua saúde e qualidade de vida.
           </p>
           <a
             href="https://wa.me/5551997316338?text=Ol%C3%A1%2C%20quero%20agendar%20uma%20avalia%C3%A7%C3%A3o!"

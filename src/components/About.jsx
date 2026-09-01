@@ -36,17 +36,14 @@ export default function About() {
             <span className="text-brand">Rodrigues</span>
           </h2>
           <p className="text-base leading-relaxed text-[#8b8b9a] lg:text-lg">
-            Personal trainer e especialista em performance com mais de uma década
-            de experiência. Combino ciência do movimento, tecnologia de
-            monitorização e acompanhamento próximo para transformar objetivos
-            em resultados concretos — seja performance desportiva, reabilitação
-            ou bem-estar geral.
+            Personal trainer e especialista em treinamento individualizado com mais de uma década de experiência. Combino ciência do movimento, monitoramento através de tecnologia baseado em dados reais e acompanhamento próximo para transformar objetivos em resultados concretos — seja performance esportiva, reabilitação ou bem-estar geral.
           </p>
           <p className="text-base leading-relaxed text-[#8b8b9a]">
             Cada programa é construído à medida, com avaliações periódicas e
             ajustes contínuos para garantir progresso sustentável e seguro.
           </p>
           <div className="flex flex-wrap items-center gap-3">
+            <p className="w-full text-xs font-medium uppercase tracking-widest text-[#8b8b9a]">Instituições parceiras</p>
             <span className="rounded-full border border-[#343a3e] bg-[#111418] px-3 py-1 text-xs font-semibold uppercase tracking-widest text-white">
               IFSO
             </span>
