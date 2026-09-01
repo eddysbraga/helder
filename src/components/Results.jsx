@@ -6,13 +6,13 @@ const clients = [
       'https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=600&q=80',
   },
   {
-    name: 'Terceira idade & populações especiais',
-    label: 'Longevidade, melhora funcional e recuperação de lesão com segurança, respeitando os seus limites.',
+    name: 'Populações especiais',
+    label: 'Treinamento direcionado, respeitando suas limitações. Seja patologias, lesões ou falta de condicionamento',
     image:
-      'https://images.unsplash.com/photo-1549060279-7e168fcee0c2?w=600&q=80',
+      '/images/populacoes-especiais.jpg',
   },
   {
-    name: 'Idosos & Qualidade de Vida',
+    name: 'Terceira idade & Qualidade de Vida',
     label: 'Longevidade, força funcional e recuperação de lesão com segurança.',
     image:
       'https://plus.unsplash.com/premium_photo-1661284839497-394d5a44f31f?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
