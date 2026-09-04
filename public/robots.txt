@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://helderrodrigues.com.br/sitemap.xml
