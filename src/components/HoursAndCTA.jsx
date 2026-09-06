@@ -37,6 +37,7 @@ export default function HoursAndCTA() {
           </p>
           <a
             href="https://wa.me/5551997316338?text=Ol%C3%A1%2C%20quero%20agendar%20uma%20avalia%C3%A7%C3%A3o!"
+            data-cta="whatsapp-cta-avaliacao"
             className="relative inline-flex items-center gap-2 rounded-full bg-brand px-10 py-4 text-base font-semibold text-white shadow-[0_0_40px_rgba(0,123,255,0.45)] transition hover:bg-[#0056b3]"
           >
             Agendar avaliação gratuita
